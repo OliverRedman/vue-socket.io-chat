@@ -56,7 +56,7 @@ export default {
     border-bottom: 1px solid #efefef;
     padding: 10px;
 }
-.messages:last-of-type {
+.message:last-of-type {
     border-bottom: none;
 }
 .username {
